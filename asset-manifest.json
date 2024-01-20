@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rostislav3110/my-app/static/css/main.60466107.css",
+    "main.js": "/rostislav3110/my-app/static/js/main.af8bc1b7.js",
+    "static/media/Baner2.jpg": "/rostislav3110/my-app/static/media/Baner2.ca588c2d3d62c3ed234a.jpg",
+    "static/media/Baner.jpg": "/rostislav3110/my-app/static/media/Baner.a2fbdf01d775265cbe25.jpg",
+    "index.html": "/rostislav3110/my-app/index.html",
+    "main.60466107.css.map": "/rostislav3110/my-app/static/css/main.60466107.css.map",
+    "main.af8bc1b7.js.map": "/rostislav3110/my-app/static/js/main.af8bc1b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60466107.css",
+    "static/js/main.af8bc1b7.js"
+  ]
+}
