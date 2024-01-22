@@ -8,7 +8,7 @@ const Card = () => {
   useEffect(() => {
     async function fetchDataForCard() {
       try {
-        const cardData = await getData("notebook");
+        const cardData = await getData("notebook", "localServer");
         console.log(cardData);
         setNotebookData(cardData);
       } catch (error) {

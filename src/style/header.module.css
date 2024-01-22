@@ -1,3 +1,11 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 50px;
+}
+
+
 .frame {
   align-items: center;
   background-color: var(--a);

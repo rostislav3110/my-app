@@ -8,7 +8,6 @@ const Baner = () => {
   return (
     <div>
       <img src={selectedImage} alt="" />
-      <img src={selectedImage2} alt="" />
     </div>
   );
 };
